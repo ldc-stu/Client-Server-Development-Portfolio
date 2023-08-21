@@ -10,6 +10,6 @@
 
 **-What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?**
 
-  Computers themselves are tools that serve a humans problems through the actions of what the human is telling it to do. The human that has the appopriate knowledge to do so in a manner where it may "engineer" the machine to solve a specific something. This is where computer scientists step in and fill that role as the "engineer" for this machine. Developing this application for Grazioso Salvare, while also taking into account security, optimization and query speed, size of the database, we can create quick queries that meet the company's needs. Providing the company with way to aggregate thier own databases which can help achieve business goals in a more timely/smooth.
+  Computers themselves are tools that serve a humans problems through the actions of what the human is telling it to do. The human that has the appopriate knowledge to do so in a manner where it may "engineer" the machine to solve a specific something. This is where computer scientists step in and fill that role as the "engineer" for this machine. Developing this application for Grazioso Salvare, while also taking into account security, optimization and query speed, size of the database, we can create quick queries that meet the company's needs. Providing the company with way to aggregate thier own databases which can help achieve business goals more timely/smoothly.
 
   
